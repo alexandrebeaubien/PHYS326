@@ -8,7 +8,7 @@ This repository will contain files/code used during the PHYS326 tutorial (Fall 2
     2. Once downloaded, install Jupyter Lab from the Anaconda Navigator.
         ![Download](images/Open_jupyter.png)
 
-2. Once you have a Jupyter environment (or if you already have/know how to use a Jupyter environment), you can download the scripts directly from this github: https://github.com/alexandrebeaubien/PHYS216.
+2. Once you have a Jupyter environment (or if you already have/know how to use a Jupyter environment), you can download the scripts directly from this github: https://github.com/alexandrebeaubien/PHYS326.
 
 ![Download from GitHub](images/Where_download_code.png)
 
