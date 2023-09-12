@@ -10,6 +10,6 @@ This repository will contain files/code used during the PHYS326 tutorial (Fall 2
 
 2. Once you have a Jupyter environment (or if you already have/know how to use a Jupyter environment), you can download the scripts directly from this github: https://github.com/alexandrebeaubien/PHYS326.
 
-![Download from GitHub](images/Where_download_code.png)
+![Download from GitHub](images/Where_download_code_v2.png)
 
 3. Extract the .ipynb file from the .zip folder & open the Python notebook file with Jupyter Lab.
